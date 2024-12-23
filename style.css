@@ -1,5 +1,6 @@
 html {
   background-color: #FFF;
+  line-height: 1.35;
 }
 
 body {
@@ -208,6 +209,7 @@ a:hover {
   color: #111;
 }
 
-.chatgpt {
+.chat-gpt {
   color: #FFF;
+  font-size: 0.1em;
 }
